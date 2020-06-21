@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Bash 参考手册中文化
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<center>![67ef874b-3258-49f9-9ac1-6b7e6bfc1afa.png](https://i.loli.net/2020/06/21/Kc7T1sUOAIz2ePtpng)</center>
 
-## Commands
+网上不乏此类中文技术文档，但是质量高高低低，难辨真假。因为目前技术基础较为薄弱，能做的项目有限，于是想到了**翻译**。最初想要翻译这份文档的本意，也只是想通过翻译实现对细节的感知，以此提升技术能力；而放到网上，首先是给同行的人一份参考，其次希望向**丘吉尔**、**贝多芬**学习，基于写作来推动自我学习和知识迭代。此外，我还会翻译一些关于 **PowerShell** 的英文博客放到我自己的 [博客](https://coodev.bitcron.com)，我已经联系原作者并获取到他的同意。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+互联网的承载能力实在太强，谁都能有自己的一席之地，人人举手发言。这时候，噪音太多，有价值的声音反而销声匿迹。我现在还发不出声，在此之前，一鼓作气，悄悄往山顶行。
 
-## Project layout
+是时。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+> 会当凌绝顶，一览众山小。
