@@ -1,0 +1,14 @@
+site_name: "CH-Bash Project"
+site_description: "Have a smack at translating Bash manual to Chinese, help learning and understanding"
+site_author: jx.zeng
+site_url: "https://bash.myportable.fun"
+repo_url: "https://github.com/nophDog/bash-ch"
+copyright: "CH-Bash is released under <a href='https://github.com/nophDog/bash-ch/blob/master/README.md'>GPL-v3 license</a>"
+
+nav:
+    - Home: index.md
+    - About: about.md
+theme:
+    name: null
+    custom_dir: 'cinder'
+    colorscheme: dracula

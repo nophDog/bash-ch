@@ -1,0 +1,25 @@
+site_name: "Bash 中文手册"
+site_description: "Have a smack at translating Bash manual to Chinese, help learning and understanding"
+site_author: jx.zeng
+site_url: "https://bash.myportable.fun"
+repo_url: "https://github.com/nophDog/bash-ch"
+copyright: "CH-Bash is released under <a href='https://github.com/nophDog/bash-ch/blob/master/README.md'>GPL-v3 license</a>"
+
+theme: material
+
+nav:
+  - Home: index.md
+  - 简介:
+      - 什么是 Bash: introduction/what-is-bash.md
+      - 什么是 Shell: introduction/what-is-a-shell.md
+  - 定义: greet.md
+  - 基本 Shell 特性:
+      - Shell 语法:
+          - Shell 操作: basic-shell-features/shell-syntax/shell-operation.md
+          - 引号:
+              - 转义字符: basic-shell-features/shell-syntax/quoting/escape-character.md
+              - 单引号: basic-shell-features/shell-syntax/quoting/single-quotes.md
+              - 双引号: basic-shell-features/shell-syntax/quoting/double-quotes.md
+              - ANSI-C 引号: basic-shell-features/shell-syntax/quoting/ansi-c-quoting.md
+              - 区域翻译: basic-shell-features/shell-syntax/quoting/locale-specific-translation.md
+  - About: about.md
