@@ -12,7 +12,7 @@ nav:
   - 简介:
       - 什么是 Bash: introduction/what-is-bash.md
       - 什么是 Shell: introduction/what-is-a-shell.md
-  - 定义: greet.md
+  - 定义: definitions.md
   - 基本 Shell 特性:
       - Shell 语法:
           - Shell 操作: basic-shell-features/shell-syntax/shell-operation.md
