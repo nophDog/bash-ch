@@ -3,20 +3,20 @@
 
 尝试将 Bash 手册浅显地翻译成中文，这是 [原文地址](https://www.gnu.org/software/bash/manual/bash.html)，翻译进度如下，[文档阅读地址](https://bash.myportable.fun)。
 
-- [x] 1️⃣ `Introduction`
-    - [x] `What is Bash?`
-    - [x] `What is shell?`
-- [x] 2️⃣ `Definitions`
-- [ ] 3️⃣ `Basic Shell Features`
-    - [ ] `Shell Syntax`
-        - [x] `Shell Operation`
-        - [ ] `Quoting`
-            - [ ] `Escape Character`
-            - [ ] `Single Quotes`
-            - [ ] `Double Quotes`
-            - [ ] `ANSI-C Quoting`
-            - [ ] `Locale-Specific Translation`
-        - [ ] `Comments`
+- [x] 1️⃣ **Introduction**
+    - [x] What is Bash?
+    - [x] What is shell?
+- [x] 2️⃣ **Definitions**
+- [ ] 3️⃣ **Basic Shell Features**
+    - [ ] Shell Syntax
+        - [x] Shell Operation
+        - [ ] Quoting
+            - [ ] Escape Character
+            - [ ] Single Quotes
+            - [ ] Double Quotes
+            - [ ] ANSI-C Quoting
+            - [ ] Locale-Specific Translation
+        - [ ] Comments
     - [ ] Shell Commands
         - [ ] Simple Commands
         - [ ] Pipelines
@@ -24,7 +24,7 @@
         - [ ] Compound Commands
             - [ ] Looping Constructures
             - [ ] Grouping Commands
-        - [ ] Coprocessed
+        - [ ] Coprocesses
         - [ ] GNU Parallel
     - [ ] Shell Functions
     - [ ] Shell Parameters
@@ -59,17 +59,17 @@
         - [ ] Exit Status
         - [ ] Signals
     - [ ] Shell Scripts
-- [ ] 4️⃣ Shell Builtin Commands
+- [ ] 4️⃣ **Shell Builtin Commands**
     - [ ] Bourne Shell Builtins
     - [ ] Bash Builtin Commands
     - [ ] Modifying Shell Behavior
         - [ ] The Set Builtin
         - [ ] The Shopt Builtin
     - [ ] Special Builtins
-- [ ] 5️⃣ Shell Variables
+- [ ] 5️⃣ **Shell Variables**
     - [ ] Bourne Shell Variables
     - [ ] Bash Variables
-- [ ] 6️⃣ Bash Features
+- [ ] 6️⃣ **Bash Features**
     - [ ] Invoking Bash
     - [ ] Bash Startup Files
     - [ ] Interactive Shells
@@ -85,11 +85,11 @@
     - [ ] Controlling the Prompt
     - [ ] The Restricted Shell
     - [ ] Bash POSIX Mode
-- [ ] 7️⃣ Job Control
+- [ ] 7️⃣ **Job Control**
     - [ ] Job Control Basics
     - [ ] Job Control Builtins
     - [ ] Job Control Variables
-- [ ] 8️⃣ Command Line Editing
+- [ ] 8️⃣ **Command Line Editing**
     - [ ] Introduction to Line Editing
     - [ ] Readline Interaction
         - [ ] Readline Bare Essentials
@@ -114,14 +114,14 @@
     - [ ] Programmable Completion
     - [ ] Programmable Completion Builtins
     - [ ] A Programmable Completion Example
-- [ ] 9️⃣ Using History Interactively
+- [ ] 9️⃣ **Using History Interactively**
     - [ ] Bash History Facilities
     - [ ] Bash History Builtins
     - [ ] History Expansion
         - [ ] Event Designators
         - [ ] Word Designators
         - [ ] Modifiers
-- [ ] 🔟 Installing Bash
+- [ ] 🔟 **Installing Bash**
     - [ ] Basic Installation
     - [ ] Compilers and Options
     - [ ] Compling For Multiple Architectures
