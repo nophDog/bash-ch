@@ -1,0 +1,1 @@
+在非交互式 shell 中，或者在已通过 `shopt` （章节 4.3.2）启用 `interactive_comments` 选项的交互式 shell 中，以 `#` 开头的输入行都会被忽略。没有开启 `interactive_comments` 选项的 shell 不允许注释。交互式 shell （章节 6.3）默认开启 `interactive_comments` 选项。
