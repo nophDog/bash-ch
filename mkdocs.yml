@@ -14,9 +14,12 @@ nav:
       - 什么是 Shell: introduction/what-is-a-shell.md
   - 定义: definitions.md
   - Shell 基本特性:
+      - 导语: basic-shell-features/basic-shell-features.md
       - Shell 语法:
+          - 导语: basic-shell-features/shell-syntax/shell-syntax.md
           - Shell 操作: basic-shell-features/shell-syntax/shell-operation.md
           - 引号:
+              - 导语: basic-shell-features/shell-syntax/quoting/quoting.md
               - 转义字符: basic-shell-features/shell-syntax/quoting/escape-character.md
               - 单引号: basic-shell-features/shell-syntax/quoting/single-quotes.md
               - 双引号: basic-shell-features/shell-syntax/quoting/double-quotes.md
