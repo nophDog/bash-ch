@@ -8,15 +8,15 @@
     - [x] What is shell?
 - [x] ➋ **Definitions**
 - [ ] ➌ **Basic Shell Features**
-    - [ ] Shell Syntax
+    - [x] Shell Syntax
         - [x] Shell Operation
-        - [ ] Quoting
-            - [ ] Escape Character
-            - [ ] Single Quotes
-            - [ ] Double Quotes
-            - [ ] ANSI-C Quoting
-            - [ ] Locale-Specific Translation
-        - [ ] Comments
+        - [x] Quoting
+            - [x] Escape Character
+            - [x] Single Quotes
+            - [x] Double Quotes
+            - [x] ANSI-C Quoting
+            - [x] Locale-Specific Translation
+        - [x] Comments
     - [ ] Shell Commands
         - [ ] Simple Commands
         - [ ] Pipelines
