@@ -1,6 +1,6 @@
 # Bash 参考手册中文化
 
-<center><img src="https://i.loli.net/2020/06/26/E2XyGkzKOnuU8FV.jpg" alt="name-logo" style="zoom:80%;" /><center>
+<center><img src="https://i.loli.net/2020/06/26/jlH6TMIRoOeiWBC.png" alt="name-logo" /><center>
 
 网上不乏此类中文技术文档，但是质量高高低低，难辨真假。因为目前技术基础较为薄弱，能做的项目有限，于是想到了**翻译**。最初想要翻译这份文档的本意，也只是想通过翻译实现对细节的感知，以此提升技术能力；而放到网上，首先是给同行的人一份参考，其次希望向**丘吉尔**、**贝多芬**学习，基于写作来推动自我学习和知识迭代。此外，我还会翻译一些关于 **PowerShell** 的英文博客放到我自己的 [博客](https://coodev.bitcron.com)，我已经联系原作者并获取到他的同意。
 
